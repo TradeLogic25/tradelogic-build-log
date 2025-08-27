@@ -22,4 +22,6 @@ Format example:
 ---
 
 ## 📂 Repo Structure
+## Build Log Index
+- [2025-08-26](logs/2025-08-26.md): Repo setup, SSH keys, .gitignore, README, first daily log
 
