@@ -1,0 +1,57 @@
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Logs & temp
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tmp
+tmp/
+temp/
+
+# Node / frontend (just in case)
+node_modules/
+dist/
+build/
+coverage/
+
+# Python (if you experiment)
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Archives / binaries
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.exe
+*.msi
+
+# Env & secrets
+*.env
+.env.*
+secrets/
+
+# Office cruft
+~$*.doc*
+~$*.xls*
+
+# Power Platform (safe defaults)
+*.msapp
+*.msapp.backup
+*.msapp.tmp
+*.pptx.autosave
+# export packs
+*.zip.export
