@@ -29,4 +29,5 @@ Format example:
 - Add daily log workflow
 - Test branch protections
 - Expand schema documentation
+- Integrate PowerApps schema logs
 
