@@ -8,3 +8,15 @@
 
 ## Next
 - 
+
+---
+_Session logged at: 
+
+### Highlights
+- 
+
+### Decisions / Risks
+- 
+
+### Next
+- 
